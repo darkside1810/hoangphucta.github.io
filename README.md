@@ -2,7 +2,7 @@
 *High-grade student at Western Sydney University*<br>
 
 **Email:** [hoangphuc181099@gmail.com](mailto:hoangphuc181099@gmail.com)<br>
-**GitHub:** [github.com/darkside1810](https://github.com/darkside1810)<br>
+**GitHub:** [github.com/hoangphucta](https://hoangphucta.github.io/)<br>
 **Phone:** [+61424891810](tel:+61424891810)<br>
 **Address:** 129 Longfield St, Cabramatta NSW 2166<br>
 
