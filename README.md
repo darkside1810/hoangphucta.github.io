@@ -18,6 +18,5 @@
 ## 📜 Certificates
 
 ## 🎓 Education
-Western Sydney University in Program: Bachelor of Information and Communications Technology.
 **Bachelor** in **Information and Communications Technology**<br>
 [Western Sydney University](https://www.westernsydney.edu.au/) - Penrith NSW 2751, Australia (2021 - Now)
