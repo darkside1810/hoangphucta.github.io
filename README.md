@@ -1,5 +1,5 @@
 # Hoang Phuc Ta
-*High-grade student at Western Sydney University*<br>
+*Enthusiastic about learning in Java developer*<br>
 
 **Email:** [hoangphuc181099@gmail.com](mailto:hoangphuc181099@gmail.com)<br>
 **GitHub:** [github.com/hoangphucta](https://hoangphucta.github.io/)<br>
@@ -12,11 +12,12 @@
 **Languages:** Java
 
 ## 💬 Languages
-**English**: Professional fluently<br>
+**English**: Fluent<br>
 **Vietnamese**: Native
 
 ## 📜 Certificates
+IELTS 7.0 (Feb 2017)
 
 ## 🎓 Education
 **Bachelor** in **Information and Communications Technology**<br>
-[Western Sydney University](https://www.westernsydney.edu.au/) - Penrith NSW 2751, Australia (2021 - Now)
+[Western Sydney University](https://www.westernsydney.edu.au/) - Sydney Campus NSW 2000, Australia (2021 - Now)
